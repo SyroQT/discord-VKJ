@@ -4,6 +4,6 @@ Source [kasdienapmastau](http://kasdienapmastau.lt/)
 
 # Issues
 
-- If text is longer then 2000 symbols bot crashes
+- If text is longer then 2000 symbols bot crashes (appears to be fixed)
 - When text is sent bot doesn't exit properly
-- Time to time bot stops working (could be a problem with hosting)
+- Time to time bot stops working (could be a problem with hosting and not the code)
